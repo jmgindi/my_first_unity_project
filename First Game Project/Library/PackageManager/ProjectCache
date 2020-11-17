@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637412316227487722
-    m_Hash: 3297119861
+      ticks: 637412360293529624
+    m_Hash: 1857926002
   m_LockFileStatus:
     m_FilePath: C:/Users/Jack Gindi/Documents/GitHub/my_first_unity_project/First
       Game Project/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637412328843287322
-    m_Hash: 1935979130
+      ticks: 637412360293739066
+    m_Hash: 3883760050
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -62,7 +62,24 @@ m_PackageAssets:
         - 2.0.4
         - 2.0.7
         - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
         - 3.5.0
+        - 3.5.2
         compatible:
         - 0.0.3
         - 0.0.4
@@ -82,8 +99,25 @@ m_PackageAssets:
         - 2.0.4
         - 2.0.7
         - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
         - 3.5.0
-        verified: 3.5.0
+        - 3.5.2
+        verified: 3.5.2
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -101,7 +135,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636613801311370000
+      datePublishedTicks: 636898887280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -155,6 +189,16 @@ m_PackageAssets:
         - 2.0.16
         - 3.0.5
         - 3.0.9
+        - 3.1.1
+        - 3.2.0
+        - 3.2.2
+        - 3.2.3
+        - 3.3.0
+        - 3.3.2-preview
+        - 3.3.2
+        - 3.3.4
+        - 3.3.5
+        - 3.4.0
         - 3.5.3
         compatible:
         - 0.0.3
@@ -180,6 +224,16 @@ m_PackageAssets:
         - 2.0.16
         - 3.0.5
         - 3.0.9
+        - 3.1.1
+        - 3.2.0
+        - 3.2.2
+        - 3.2.3
+        - 3.3.0
+        - 3.3.2-preview
+        - 3.3.2
+        - 3.3.4
+        - 3.3.5
+        - 3.4.0
         - 3.5.3
         verified: 3.5.3
       dependencies:
@@ -203,7 +257,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636564700189650000
+      datePublishedTicks: 636898888080000000
       documentationUrl: 
       hasRepository: 0
       repository:
@@ -326,7 +380,11 @@ m_PackageAssets:
         - 2.0.0
         - 2.0.1
         - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
         - 2.1.1
+        - 3.0.0-pre.3
         compatible:
         - 0.0.3
         - 0.0.4
@@ -348,7 +406,11 @@ m_PackageAssets:
         - 2.0.0
         - 2.0.1
         - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
         - 2.1.1
+        - 3.0.0-pre.3
         verified: 2.1.1
       dependencies: []
       resolvedDependencies: []
@@ -368,13 +430,114 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636646760654730000
+      datePublishedTicks: 636898903790000000
       documentationUrl: 
       hasRepository: 0
       repository:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.render-pipelines.universal@8.2.0
+      testable: 0
+      isDirectDependency: 1
+      version: 8.2.0
+      source: 1
+      resolvedPath: C:\Users\Jack Gindi\Documents\GitHub\my_first_unity_project\First
+        Game Project\Library\PackageCache\com.unity.render-pipelines.universal@8.2.0
+      assetPath: Packages/com.unity.render-pipelines.universal
+      name: com.unity.render-pipelines.universal
+      displayName: Universal RP
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
+        Pipeline, made by Unity. URP provides artist-friendly workflows that let
+        you quickly and easily create optimized graphics across a range of platforms,
+        from mobile to high-end consoles and PCs.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 7.0.0
+        - 7.0.1
+        - 7.1.1
+        - 7.1.2
+        - 7.1.5
+        - 7.1.6
+        - 7.1.7
+        - 7.1.8
+        - 7.2.0
+        - 7.2.1
+        - 7.3.1
+        - 7.4.1
+        - 7.4.2
+        - 7.4.3
+        - 7.5.1
+        - 8.0.1
+        - 8.1.0
+        - 8.2.0
+        - 9.0.0-preview.14
+        - 9.0.0-preview.35
+        - 9.0.0-preview.55
+        - 9.0.0-preview.72
+        - 10.0.0-preview.26
+        - 10.1.0
+        - 10.2.0
+        compatible:
+        - 8.2.0
+        - 9.0.0-preview.14
+        - 9.0.0-preview.35
+        - 9.0.0-preview.55
+        - 9.0.0-preview.72
+        verified: 8.2.0
+      dependencies:
+      - name: com.unity.render-pipelines.core
+        version: 8.2.0
+      - name: com.unity.shadergraph
+        version: 8.2.0
+      resolvedDependencies:
+      - name: com.unity.render-pipelines.core
+        version: 8.2.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.shadergraph
+        version: 8.2.0
+      - name: com.unity.searcher
+        version: 4.0.9
+      keywords:
+      - graphics
+      - performance
+      - rendering
+      - mobile
+      - render
+      - pipeline
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637302625500000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Graphics.git
+        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
         path: 
     - packageId: com.unity.textmeshpro@1.2.4
       testable: 0
@@ -429,10 +592,65 @@ m_PackageAssets:
         - 1.2.3
         - 1.2.4
         - 1.3.0-preview
+        - 1.3.0
+        - 1.4.0-preview.1b
+        - 1.4.0-preview.2a
+        - 1.4.0-preview.3a
+        - 1.4.0
+        - 1.4.1-preview.1
+        - 1.4.1
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0-preview.7
+        - 1.5.0-preview.8
+        - 1.5.0-preview.10
+        - 1.5.0-preview.11
+        - 1.5.0-preview.12
+        - 1.5.0-preview.13
+        - 1.5.0-preview.14
+        - 1.5.0
+        - 1.5.1
+        - 1.5.3
+        - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.1
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 2.1.0-preview.7
+        - 2.1.0-preview.8
+        - 2.1.0-preview.10
+        - 2.1.0-preview.11
+        - 2.1.0-preview.12
+        - 2.1.0-preview.13
+        - 2.1.0-preview.14
+        - 2.1.0
+        - 2.1.1
+        - 2.1.3
+        - 3.0.0-preview.1
+        - 3.0.0-preview.3
+        - 3.0.0-preview.4
+        - 3.0.0-preview.5
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0
         - 3.0.1
+        - 3.0.3
         compatible:
         - 3.0.1
-        verified: 3.0.1
+        - 3.0.3
+        verified: 3.0.3
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -452,7 +670,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636662561989330000
+      datePublishedTicks: 636898916300000000
       documentationUrl: 
       hasRepository: 0
       repository:
@@ -2154,6 +2372,214 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.render-pipelines.core@8.2.0
+      testable: 0
+      isDirectDependency: 0
+      version: 8.2.0
+      source: 1
+      resolvedPath: C:\Users\Jack Gindi\Documents\GitHub\my_first_unity_project\First
+        Game Project\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
+      assetPath: Packages/com.unity.render-pipelines.core
+      name: com.unity.render-pipelines.core
+      displayName: Core RP Library
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: SRP Core makes it easier to create or customize a Scriptable Render
+        Pipeline (SRP). SRP Core contains reusable code, including boilerplate code
+        for working with platform-specific graphics APIs, utility functions for common
+        rendering operations, and  shader libraries. The code in SRP Core is use
+        by the High Definition Render Pipeline (HDRP) and Universal Render Pipeline
+        (URP). If you are creating a custom SRP from scratch or customizing a prebuilt
+        SRP, using SRP Core will save you time.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 8.2.0
+        compatible:
+        - 8.2.0
+        verified: 8.2.0
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/Graphics.git
+        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
+        path: 
+    - packageId: com.unity.shadergraph@8.2.0
+      testable: 0
+      isDirectDependency: 0
+      version: 8.2.0
+      source: 1
+      resolvedPath: C:\Users\Jack Gindi\Documents\GitHub\my_first_unity_project\First
+        Game Project\Library\PackageCache\com.unity.shadergraph@8.2.0
+      assetPath: Packages/com.unity.shadergraph
+      name: com.unity.shadergraph
+      displayName: Shader Graph
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Shader Graph package adds a visual Shader editing tool to
+        Unity. You can use this tool to create Shaders in a visual way instead of
+        writing code. Specific render pipelines can implement specific graph features.
+        Currently, both the High Definition Rendering Pipeline and the Universal
+        Rendering Pipeline support Shader Graph.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.8
+        - 0.1.9
+        - 0.1.17
+        - 1.0.0-beta
+        - 1.1.1-preview
+        - 1.1.2-preview
+        - 1.1.3-preview
+        - 1.1.4-preview
+        - 1.1.5-preview
+        - 1.1.6-preview
+        - 1.1.8-preview
+        - 1.1.9-preview
+        - 2.0.1-preview
+        - 2.0.3-preview
+        - 2.0.4-preview
+        - 2.0.4-preview.1
+        - 2.0.5-preview
+        - 2.0.6-preview
+        - 2.0.7-preview
+        - 2.0.8-preview
+        - 3.0.0-preview
+        - 3.1.0-preview
+        - 3.3.0-preview
+        - 4.0.0-preview
+        - 4.0.1-preview
+        - 4.1.0-preview
+        - 4.2.0-preview
+        - 4.3.0-preview
+        - 4.6.0-preview
+        - 4.8.0-preview
+        - 4.9.0-preview
+        - 4.10.0-preview
+        - 5.0.0-preview
+        - 5.1.0
+        - 5.2.0
+        - 5.2.1
+        - 5.2.2
+        - 5.2.3
+        - 5.3.1
+        - 5.6.1
+        - 5.7.2
+        - 5.8.2
+        - 5.9.0
+        - 5.10.0
+        - 5.13.0
+        - 5.16.1
+        - 6.5.2
+        - 6.5.3
+        - 6.7.1
+        - 6.9.0
+        - 6.9.1
+        - 6.9.2
+        - 7.0.0
+        - 7.0.1
+        - 7.1.1
+        - 7.1.2
+        - 7.1.5
+        - 7.1.6
+        - 7.1.7
+        - 7.1.8
+        - 7.2.0
+        - 7.2.1
+        - 7.3.1
+        - 7.4.1
+        - 7.4.2
+        - 7.4.3
+        - 7.5.1
+        - 8.0.1
+        - 8.1.0
+        - 8.2.0
+        - 9.0.0-preview.14
+        - 9.0.0-preview.34
+        - 9.0.0-preview.55
+        - 9.0.0-preview.72
+        - 10.0.0-preview.27
+        - 10.1.0
+        - 10.2.0
+        compatible:
+        - 8.2.0
+        - 9.0.0-preview.14
+        - 9.0.0-preview.34
+        - 9.0.0-preview.55
+        - 9.0.0-preview.72
+        verified: 8.2.0
+      dependencies:
+      - name: com.unity.render-pipelines.core
+        version: 8.2.0
+      - name: com.unity.searcher
+        version: 4.0.9
+      resolvedDependencies:
+      - name: com.unity.render-pipelines.core
+        version: 8.2.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.searcher
+        version: 4.0.9
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637302623400000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/Graphics.git
+        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
+        path: 
     - packageId: com.unity.standardevents@1.0.13
       testable: 0
       isDirectDependency: 0
@@ -2229,7 +2655,121 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636564700591190000
+      datePublishedTicks: 636898913610000000
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.searcher@4.0.9
+      testable: 0
+      isDirectDependency: 0
+      version: 4.0.9
+      source: 1
+      resolvedPath: C:\Users\Jack Gindi\Documents\GitHub\my_first_unity_project\First
+        Game Project\Library\PackageCache\com.unity.searcher@4.0.9
+      assetPath: Packages/com.unity.searcher
+      name: com.unity.searcher
+      displayName: Searcher
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: General search window for use in the Editor. First target use
+        is for GraphView node search.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.0.9
+        compatible:
+        - 4.0.9
+        verified: 4.0.9
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - search
+      - searcher
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git@github.cds.internal.unity3d.com:unity/com.unity.searcher.git
+        revision: ec1fb56f8d8f95b1503ea22a73b83e2cfb02f083
+        path: 
+    - packageId: com.unity.ugui@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+      assetPath: Packages/com.unity.ugui
+      name: com.unity.ugui
+      displayName: Unity UI
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Unity UI is a UI toolkit for developing user interfaces for games
+        and applications. It is a GameObject-based UI system that uses Components
+        and the Game View to arrange, position, and style user interfaces. \u200B
+        You cannot use Unity UI to create or change user interfaces in the Unity
+        Editor."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies:
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - UI
+      - ugui
+      - Unity UI
+      - Canvas
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 0
       repository:
