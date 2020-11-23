@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 2048
     height: 1108.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 2048
     height: 1059
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 103
+  controlID: 56
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 483
     height: 1059
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -317,21 +317,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefabs
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jack Gindi\Documents\GitHub\BallGame\BallGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba410000
-    m_LastClickedID: 16826
-    m_ExpandedIDs: 00000000ba41000000ca9a3b
+    m_SelectedIDs: 6c450000
+    m_LastClickedID: 17772
+    m_ExpandedIDs: 00000000c2410000d241000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -359,7 +359,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba410000
+    m_ExpandedIDs: 00000000c2410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -403,7 +403,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 3}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 64410000
-      m_LastClickedID: 16740
-      m_ExpandedIDs: 5cfbffff72410000
+      m_SelectedIDs: 46dcffff
+      m_LastClickedID: -9146
+      m_ExpandedIDs: 80baffffcaf9ffff5cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.42526245, y: 1.2014766, z: -0.34687328}
+    m_Target: {x: 4.2966123, y: 0.6397524, z: 0.21530557}
     speed: 2
-    m_Value: {x: -0.42526245, y: 1.2014766, z: -0.34687328}
+    m_Value: {x: 4.2966123, y: 0.6397524, z: 0.21530557}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -587,18 +587,18 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.68
   m_Rotation:
-    m_Target: {x: -0.07510138, y: 0.90547985, z: -0.18054438, w: -0.37665427}
+    m_Target: {x: 0.5329279, y: -0.098504126, z: 0.06263865, w: 0.8380704}
     speed: 2
-    m_Value: {x: -0.075101435, y: 0.90548044, z: -0.1805445, w: -0.3766545}
+    m_Value: {x: 0.5329277, y: -0.09850409, z: 0.062638626, w: 0.8380701}
   m_Size:
-    m_Target: 10.144523
+    m_Target: 5.6092386
     speed: 2
-    m_Value: 10.144523
+    m_Value: 5.6092386
   m_Ortho:
     m_Target: 0
     speed: 2

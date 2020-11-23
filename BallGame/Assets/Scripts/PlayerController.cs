@@ -26,6 +26,7 @@ public class PlayerController : MonoBehaviour
         movementY = movementVector.y;
     }
 
+
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
@@ -33,4 +34,10 @@ public class PlayerController : MonoBehaviour
         rb.AddForce(movement * speed);
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Pickup")) {
+            other.gameObject.SetActive(false);
+        }
+    }
 }
